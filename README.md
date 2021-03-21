@@ -7,4 +7,4 @@ Python app that retrieves weather for a given city or zip code using the API at 
 Python
 
 ## Files
-- Weather Application.py
+- Weather Application.py - Python file
